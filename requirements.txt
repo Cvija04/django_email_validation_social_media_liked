@@ -1,0 +1,5 @@
+requests
+django
+djangorestframework
+django-cors-headers
+validate_email
